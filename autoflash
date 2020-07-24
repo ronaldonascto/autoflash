@@ -3,7 +3,7 @@
 #
 #.USAGE
 # To start, run:
-# wget https://raw.githubusercontent.com/ronaldonascto/autoflash/master/autoflash && sudo bash autoflash
+# wget https://raw.githubusercontent.com/ronaldonascto/autoflash/master/autoflash.sh && sudo bash autoflash.sh
 
 #.SYNOPSIS
 # - Only for use on Ubuntu 18 (Bionic) LiveUSB
